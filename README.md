@@ -8,21 +8,21 @@
 
 **Project Suggestion:** Build a "Bug Tracker" application where users can create, update, and track issues in a project. The goal is to integrate testing and debugging best practices to ensure application reliability.
 
-**Instructions:**
+**Instructions:**...
 
 1. **Project Setup:**
    - Create a new project folder called `mern-bug-tracker`.
    - Set up both backend and frontend environments.
    - Install necessary dependencies, including testing libraries (Jest, Supertest, React Testing Library).
 
-2. **Application Features:**
+2. **Application Features:**...
    - Users should be able to:
      - Report new bugs by filling out a form.
      - View a list of all reported bugs.
      - Update bug statuses (e.g., open, in-progress, resolved).
      - Delete bugs.
 
-3. **Testing Requirements:**
+3. **Testing Requirements:**...
    - **Backend:**
      - Write unit tests for individual helper functions (e.g., validation logic).
      - Perform integration tests for API routes (e.g., create, update, delete bug endpoints).
@@ -33,7 +33,7 @@
      - Implement integration tests to verify API calls and UI updates.
      - Ensure proper rendering of UI elements under different states (e.g., empty list, error message).
 
-4. **Debugging Tasks:**
+4. **Debugging Tasks:**...
    - Introduce intentional bugs in the code and utilize:
      - Console logs for tracking values.
      - Chrome DevTools for inspecting network requests and component state.
